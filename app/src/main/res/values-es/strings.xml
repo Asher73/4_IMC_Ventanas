@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC Ventanas</string>
+    <string name="button">Calcular</string>
+    <string name="higth">Altura (mts)</string>
+    <string name="title">Indice de Masa Corporal</string>
+    <string name="weigth">Peso (kg)</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Windows</string>
+    <string name="title">Body Mass Index</string>
+    <string name="weigth">Weigth (kg)</string>
+    <string name="higth">Higth (mts)</string>
+    <string name="button">Calculate</string>
+</resources>
